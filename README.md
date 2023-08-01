@@ -13,7 +13,7 @@ Analyst</a> | Cybersecurity Professional
   - Obtained Skills: Information Security (INFOSEC) | Cybersecurity | Historical Attacks | Ethics in Cybersecurity | NIST Cybersecurity Framework (CSF) |
  
 - <b>Play It Safe: Manage Security Risks (Coursera)</b>
-  - Obtained Skills: Information Security (INFOSEC) | Security Audits | Incident Response Playbooks | NIST Risk Management Framework (RMF) | NIST Cybersecurity Framework (CSF) |
+  - Obtained Skills: Information Security (INFOSEC) | Security Audits | Incident Response Playbooks | NIST Risk Management Framework (RMF) | NIST Cybersecurity Framework (CSF) | NIST 800-61 |
   - Portfolio Activities:
     - Controls assessment: (https://docs.google.com/document/d/e/2PACX-1vSe5eT9EeRcfobsSZC5BUgkirdSveMVu9us_DZTFYc4NyoVkl-c5y86bRdT2XyYfpgGwaTZ1YrY9ybp/pub) |
     - Compliance Checklist: (https://docs.google.com/document/d/e/2PACX-1vRirrORyD4fJjWMLhqNAioJp64JGDNlDip1vJ4t6Tlk2jhpu3KTP721VwtV1agC-u4MS8VgR6005F6g/pub) |
@@ -21,7 +21,7 @@ Analyst</a> | Cybersecurity Professional
  
   
 - <b>Connect & Protect: Networks & Network Security ( Coursera)</b>
-  - Obtained Skills: Cloud Networks | Network Security | Security Hardening | Network Architecture | Transmission Control Protocol / Internet Protocol (TCP/IP) |
+  - Obtained Skills: Cloud Networks | Network Security | Security Hardening | Network Architecture | Transmission Control Protocol / Internet Protocol (TCP/IP) | NIST 800-53 |
   - Portfolio Activities:
     - Cybersecurity Incident Report: network Traffic Analysis | (https://docs.google.com/document/d/e/2PACX-1vQ1rS1rYMqkLya4W-6yJUf1cgLXdSxuFr0u0ZvZmTcY5CVedRpAVCdWAnypIRayWjIwtCrUdTFvJoy9/pub)
     - Security Incident Report : (https://docs.google.com/document/d/e/2PACX-1vQcWNjdDvtQ3sSgjPXE6CsP2ywCRuOvVRPaOxh9_HYH3g8PbjjDwBm1eOVyrsyz3hHPEYFa0Xi_oJme/pub)
@@ -47,7 +47,7 @@ Analyst</a> | Cybersecurity Professional
     - PASTA Worksheet: (https://docs.google.com/document/d/e/2PACX-1vRNj311z2Irl3PtSume91rlbSrLx6cxX-4UiOMkmkjrjT3_Qs2FIF6E3awzk7-6LQU8zdPANa1-4smr/pub)
    
 - <b>Sound the Alarm: Detection & Response (Coursera)</b>
-  - Obtained Skills: Security Information and Event management (SIEM) Tools | Packet Analyzer | Intrusion Detection Systems (IDS) |
+  - Obtained Skills: Security Information and Event management (SIEM) Tools | Packet Analyzer | Intrusion Detection Systems (IDS) | NIST 800-61 |
   - Portfolio Activities
     - Incident Handler's Journal: (https://docs.google.com/document/d/e/2PACX-1vTK4kw0pcOck7m0baYjavte0jtMnG6fP6t4pIWQDaMn4PfioV0FXHSJ4WJQ967FTv08hBhpQomnSHtS/pub)
     - Protocol Analyzer Diagram: (https://docs.google.com/presentation/d/e/2PACX-1vSS64inOP018b8I4D4IXqhBAKLYHe-Jc00WcWtuiP9TBtFukk1riIgHX-ZteFv5qErjTVTDXSH3x6Qy/pub?start=false&loop=false&delayms=3000)

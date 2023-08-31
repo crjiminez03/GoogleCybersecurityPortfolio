@@ -1,6 +1,6 @@
 <h1>Hi, I'm Christopher! </h1>
 Analyst</a> | Cybersecurity Professional
-<h2>👨‍💻 CompTIA Security + Certification (August 2023) </h2>
+<h2>👨‍💻 CompTIA Security + Certification (September 2023) </h2>
 <h2>👨‍💻 Google Cybersecurity Professional Certificate:</h2>
 
 - <b>Google Cybersecurity Professional Certificate (Coursera)</b>
@@ -29,7 +29,7 @@ Analyst</a> | Cybersecurity Professional
     - Incident Report Analysis: (https://docs.google.com/document/d/e/2PACX-1vQVc825grCNDFE0liVPZlO7QBh8Cx4yB3deIKuQS6ECWGX8W1kOUDdqL3YRG0cfjy4MQ9CyJ9Icp9Zg/pub)
     
       
-- <b>Tools of the Trade: Linus & SQL (Coursera)</b>
+- <b>Tools of the Trade: Linux & SQL (Coursera)</b>
   - Obtained Skills: Linux | Cmmand Line Interface (CLI) | Bash | SQL |
   - Portfolio Activities
     - File Permissions In Linux: (https://docs.google.com/document/d/e/2PACX-1vS8gfVFzrWIEi7EfBik6YxvCG--LCRIg4PXA14QWJlUrTs8iSVMQvIzmI6JanDyZ7d37B8F4Uy1rd-u/pub)

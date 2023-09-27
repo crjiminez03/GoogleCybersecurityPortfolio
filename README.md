@@ -1,6 +1,6 @@
-<h1>Hi, I'm Christopher! </h1>
-Analyst</a> | Cybersecurity Professional
-<h2>👨‍💻 CompTIA Security + Certification (September 2023) </h2>
+<h1>Welcome to my Cybersecurity Professional Certificate Portfolio!</h1>
+I am Christopher Jiminez, a dedicated cybersecurity professional with a passion for safeguarding digital assets and information. I have recently completed the Google Cybersecurity Professional Certificate on Coursera, and I bring to the table a unique blend of cybersecurity expertise and a strong analytics background. With this combination, I'm well-prepared to tackle complex challenges in the ever-evolving digital landscape.
+<h2>👨‍💻 CompTIA Security + Certification (November 2023) </h2>
 <h2>👨‍💻 Google Cybersecurity Professional Certificate:</h2>
 
 - <b>Google Cybersecurity Professional Certificate (Coursera)</b>

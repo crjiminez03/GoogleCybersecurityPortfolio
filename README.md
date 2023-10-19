@@ -1,18 +1,22 @@
-<h1>Welcome to my Cybersecurity Professional Certificate Portfolio!</h1>
+<h1>Welcome to my Cybersecurity Professional Certificate Portfolio!👨‍💻</h1>
 Christopher Jiminez, a dedicated cybersecurity professional with a passion for safeguarding digital assets and information. I have recently completed the Google Cybersecurity Professional Certificate on Coursera, and I bring to the table a unique blend of cybersecurity expertise and a strong analytics background. With this combination, I'm well-prepared to tackle complex challenges in the ever-evolving digital landscape.
-<h2>👨‍💻 CompTIA Security + Certification (November 2023) </h2>
-<h2>👨‍💻 Google Cybersecurity Professional Certificate:</h2>
+<h2>🔐👨‍💻 CompTIA Security + Certification (December 2023) </h2>
+<h2>🔒🔐👨‍💻 Google Cybersecurity Professional Certificate:</h2>
 
 - <b>Google Cybersecurity Professional Certificate (Coursera)</b>
-  - Obtained Skills: Linux | Python Programming | Security Information and Event Management (SIEM) Tools | Intrusion Detection Systems (IDS) | SQL |
-  - Courses Covered: Foundations of Cybersecurity | Play It Safe: Manage Security Risks | Tools of the Trade: Linux & SQL | Connect and Protect: Networks and Network Security | Put It to Work: Prepare for Cybersecurity Jobs | Sound the Alarm: Detection and Response | Automate Cybersecurity Tasks with Python | Assets, Threats, and Vulnerabilities |
+  - Obtained Skills: 🐧 Linux |🐍 Python Programming |📊 Security Information and Event Management (SIEM) Tools |🔍Intrusion Detection Systems (IDS) |💽 SQL |
+  - Courses Covered:[🏗️ Foundations of Cybersecurity](
+https://www.coursera.org/account/accomplishments/certificate/HAJQAC2HJ4MM) |[🛡️ Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/certificate/C766833XBMAU) |[🛠️ Tools of the Trade: Linux & SQL](
+https://www.coursera.org/account/accomplishments/certificate/4UAHR53MPZRS) |[🔗 Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/certificate/EKCM56SXX4MP) |[🛠️ Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/certificate/5Z2RQ8P2W4P6) |[🚨 Sound the Alarm: Detection and Response](
+https://www.coursera.org/account/accomplishments/certificate/8QMTZHMB4ST5) |[🐍 Automate Cybersecurity Tasks with Python](
+https://www.coursera.org/account/accomplishments/certificate/VYPSRPALHSWK) |[🔄 Assets, Threats, and Vulnerabilities](https://www.coursera.org/account/accomplishments/certificate/VA5FU3KABHAT) |
 - [Certificate Link](https://www.coursera.org/account/accomplishments/specialization/certificate/3U8PLKN6RFMX)
   - Credential ID:  3U8PLKN6RFMX | Issue Date/ Exp Date: July 2023 / N/A |
 
-- <b>Foundations of Cybersecurity (Coursera)</b>
+- <b>🏗️ Foundations of Cybersecurity (Coursera)</b>
   - Obtained Skills: Information Security (INFOSEC) | Cybersecurity | Historical Attacks | Ethics in Cybersecurity | NIST Cybersecurity Framework (CSF) |
  
-- <b>Play It Safe: Manage Security Risks (Coursera)</b>
+- <b>🛡️ Play It Safe: Manage Security Risks (Coursera)</b>
   - Obtained Skills: Information Security (INFOSEC) | Security Audits | Incident Response Playbooks | NIST Risk Management Framework (RMF) | NIST Cybersecurity Framework (CSF) | NIST 800-61 |
   - Portfolio Activities:
     - [Controls assessment](https://docs.google.com/document/d/e/2PACX-1vSe5eT9EeRcfobsSZC5BUgkirdSveMVu9us_DZTFYc4NyoVkl-c5y86bRdT2XyYfpgGwaTZ1YrY9ybp/pub) 
@@ -20,7 +24,7 @@ Christopher Jiminez, a dedicated cybersecurity professional with a passion for s
     - [Stakeholder Memorandum](https://docs.google.com/document/d/e/2PACX-1vS6BVfOjKAnjfU_Z-PD-aHHKybj5Sdw_tJNv0Qoatj3-Xvj_uudROA7TPCfO1bTdKDBA1BGQF3H--3a/pub) 
  
   
-- <b>Connect & Protect: Networks & Network Security ( Coursera)</b>
+- <b>🔗 Connect & Protect: Networks & Network Security ( Coursera)</b>
   - Obtained Skills: Cloud Networks | Network Security | Security Hardening | Network Architecture | Transmission Control Protocol / Internet Protocol (TCP/IP) | NIST 800-53 |
   - Portfolio Activities:
     - [Cybersecurity Incident Report: network Traffic Analysis](https://docs.google.com/document/d/e/2PACX-1vQ1rS1rYMqkLya4W-6yJUf1cgLXdSxuFr0u0ZvZmTcY5CVedRpAVCdWAnypIRayWjIwtCrUdTFvJoy9/pub)
@@ -29,13 +33,13 @@ Christopher Jiminez, a dedicated cybersecurity professional with a passion for s
     - [Incident Report Analysis](https://docs.google.com/document/d/e/2PACX-1vQVc825grCNDFE0liVPZlO7QBh8Cx4yB3deIKuQS6ECWGX8W1kOUDdqL3YRG0cfjy4MQ9CyJ9Icp9Zg/pub)
     
       
-- <b>Tools of the Trade: Linux & SQL (Coursera)</b>
+- <b>🛠️ Tools of the Trade: Linux & SQL (Coursera)</b>
   - Obtained Skills: Linux | Cmmand Line Interface (CLI) | Bash | SQL |
   - Portfolio Activities
     - [File Permissions In Linux](https://docs.google.com/document/d/e/2PACX-1vS8gfVFzrWIEi7EfBik6YxvCG--LCRIg4PXA14QWJlUrTs8iSVMQvIzmI6JanDyZ7d37B8F4Uy1rd-u/pub)
     - [Apply Filters to SQL Queries](https://docs.google.com/document/d/e/2PACX-1vTDgKC_F3nFmwGeurjkgGAE5qsreUmWTWhs0-crFeZI6aGVr7KArsS2rmm5kwANShZLIYQ3YK2VVLPB/pub)
    
-- <b>Assets, Threats, and Vulnerabilities (Coursera)</b>
+- <b>🔄 Assets, Threats, and Vulnerabilities (Coursera)</b>
   - Obtained Skills: Vulnerability Assessment | Threat Analysis | Authentication | Cryptography | Asset Classification |
   - Portfolio Activities:
     - [Home Asset Inventory](https://docs.google.com/spreadsheets/d/e/2PACX-1vTJXCfCWkoV7FbOW_p_f8Ub4Qqp6umBkRAwribrB8t4g31de5ZdloADcGYqa6n6kjRUxg0FKxArfEJu/pubhtml)
@@ -46,7 +50,7 @@ Christopher Jiminez, a dedicated cybersecurity professional with a passion for s
     - [Parking Lot USB Exercise:](https://docs.google.com/document/d/e/2PACX-1vScHPxr4aymB_HnJxHkuqnGL8xcUCcu5NZrKInZAXJEkiMgely9cSWA3n5giEW_Jo27DykBUuPeXmpL/pub)
     - [PASTA Worksheet](https://docs.google.com/document/d/e/2PACX-1vRNj311z2Irl3PtSume91rlbSrLx6cxX-4UiOMkmkjrjT3_Qs2FIF6E3awzk7-6LQU8zdPANa1-4smr/pub)
    
-- <b>Sound the Alarm: Detection & Response (Coursera)</b>
+- <b>🚨 Sound the Alarm: Detection & Response (Coursera)</b>
   - Obtained Skills: Security Information and Event management (SIEM) Tools | Packet Analyzer | Intrusion Detection Systems (IDS) | NIST 800-61 |
   - Portfolio Activities
     - [Incident Handler's Journal](https://docs.google.com/document/d/e/2PACX-1vTK4kw0pcOck7m0baYjavte0jtMnG6fP6t4pIWQDaMn4PfioV0FXHSJ4WJQ967FTv08hBhpQomnSHtS/pub)

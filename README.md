@@ -55,22 +55,7 @@ Christopher Jiminez, a dedicated cybersecurity professional with a passion for s
     - [Playbook Respond to a Phishing Incident Completed Alert Ticket](https://docs.google.com/document/d/e/2PACX-1vRHkSaHtFVff4YhO1-RM5YZVdNIhDddMlzieEPGIfxH8dwOmJEeEnQgznbpChuSzC-OSEqH3UCpaOE4/pub)
     - [Incident Final Report](https://docs.google.com/document/d/e/2PACX-1vRiSgMBGj-9r92EMAdVOVqO2IjXmlt1Q9LlXeFZwrUKw0GbSfGCCFHYsi4x3JKmVgWusKZ5Eho7HhrT/pub)   
 
-- <b>Automate Cybersecurity Tasks with Python (Coursera)</b>
-  - Obtained Skills: Computer Programming | Python Programming | Coding | PEP 8 Style Guide |
-  - Portfolio Activities
-    - [Algorithm For File Updates in Python](https://docs.google.com/document/d/e/2PACX-1vTlAL3Pws0dEbnXqu9d6IdASGkl-UqBdUbVbqU4EPI2VZ3dea-vEX-lfFL9NrXHoAxCpWcPWv0mjB5r/pub) 
-    - Practice Writing Python Code: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Cybersecurity%20Portfolio/Practice%20writing%20Python%20code.html
-    - Assign Python Variables: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Cybersecurity%20Portfolio/Activity_Assign%20Python%20variables.html
-    - Create a Conditional Statement: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Cybersecurity%20Portfolio/Create%20a%20Conditional%20statement.html
-    - Create Loops: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Cybersecurity%20Portfolio/Activity_Create%20loops.html
-    - Define & Call a Function: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Cybersecurity%20Portfolio/Activity_Define%20and%20call%20a%20function.html
-    - Create more Functions: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Cybersecurity%20Portfolio/Activity_Create%20more%20functions.html
-    - Work With Strings in Python: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Cybersecurity%20Portfolio/Activity_Work%20with%20strings%20in%20Python.html
-    - Develop an Algorithm: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Cybersecurity%20Portfolio/Activity_Develop%20an%20algorithm.html
-    - Use Regular Expressions to Find Patterns: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Cybersecurity%20Portfolio/Activity_Use%20regular%20expressions%20to%20find%20patterns.html
-    - Import & Parse a Text File: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Cybersecurity%20Portfolio/Activity_Import%20and%20parse%20a%20text%20file.html
-    - Create Another Algorithm: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Cybersecurity%20Portfolio/Activity_Create%20another%20algorithm.html
-    - Debug Python Code: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Cybersecurity%20Portfolio/Activity%20debug%20python%20code.html
+
     
       
 
